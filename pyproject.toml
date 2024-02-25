@@ -29,7 +29,7 @@ dependencies = [
 ]
 
 [project.urls]
-source = "https://github.com/C0untFloyd/bark-gui"
+source = "https://github.com/dports/bark-gui"
 
 [project.optional-dependencies]
 dev = [
